@@ -17,13 +17,13 @@ navItem.forEach((item) => {
     }
     changeIcon();
   });
-});
+});kjbkjhuhodSHOIHnohsdaihniohnoiasdhnoihdoijpisd
 
 // Change nav toggle icon
 function changeIcon() {
   if (navMenu.classList.contains("nav__menu--open")) {
     navToggle.classList.replace("ri-menu-3-line", "ri-close-line");
-  } else {
+  } else {bhjgiqsgIUHUHUOHBUBSDUBSDBLBDS
     navToggle.classList.replace("ri-close-line", "ri-menu-3-line");
   }
 }
